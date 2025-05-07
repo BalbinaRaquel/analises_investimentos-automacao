@@ -37,7 +37,7 @@ Proposta de projeto do curso da [Empowerdata Treinamentos](https://www.empowerda
   </a>
   <a href="eng.balbinacorreia@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+ </a>
   <a href="balbina.rakell@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
